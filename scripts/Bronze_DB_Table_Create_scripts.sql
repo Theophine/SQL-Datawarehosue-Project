@@ -1,5 +1,4 @@
 
-
 create or alter procedure bronze.create_tables_Procedure
 as 
 

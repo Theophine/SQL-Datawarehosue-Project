@@ -1,5 +1,4 @@
 
-
 -- BRONZE LAYER DATA QUALITY CHECKS
 
 -- Data Completeness: Check for null values in critical columns, such as primary keys or foreign keys. For example, you can run a query like:
